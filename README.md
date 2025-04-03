@@ -28,6 +28,6 @@
 </p>
 
 ### :fire: My Stats :
-[![Lonelas1991's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lonela1991&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Lonelas1991's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lonela1991&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonela1991&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonela1991&layout=pie&theme=dark#gh-dark-mode-only)
