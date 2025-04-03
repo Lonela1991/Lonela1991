@@ -25,7 +25,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" alt="csharp" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt="dot-net" width="45" height="45" />
-          
-                
-          
 </p>
+
+### :fire: My Stats :
+[![Lonelas1991's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lonela1991&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonela1991&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
